@@ -1,0 +1,23 @@
+Quero que você resolva um desafio de programação em Java ou C# criando um sistema de gerenciamento de tarefas usando Programação Orientada a Objetos (POO) e lógica de controle.
+
+Requisitos do sistema:
+
+Crie uma classe Tarefa com as seguintes propriedades: descricao (String), prioridade (int) e status (enum, indicando se está concluída ou não).
+
+Crie uma classe ListaDeTarefas que armazene uma lista de objetos Tarefa.
+
+Implemente métodos para adicionar uma tarefa à lista, listar todas as tarefas mostrando todas as informações e marcar uma tarefa como concluída.
+
+Inclua um método que filtre e liste apenas as tarefas concluídas (desafio extra).
+
+Regras adicionais:
+
+O código deve ser claro e comentado, explicando cada método e propriedade.
+
+Use boas práticas de POO como encapsulamento, construtores adequados e métodos de acesso (get/set).
+
+use enum para Status ou Prioridade para tornar o código mais elegante.
+
+Objetivo:
+
+Gerar um código completo em Java ou C# que possa ser compilado e testado diretamente, atendendo a todos os requisitos acima.
